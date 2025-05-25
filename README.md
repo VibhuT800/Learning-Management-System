@@ -6,10 +6,7 @@
 >### Important Note!
 >This is the last version of the Learning Management System. It's connecting to the database via JPA(Java Persistence API). So all required classes like 'User' are entities. If you don't need a database connection, check out this old commit that hasn't connection scripts:
 https://github.com/EmirhanSyl/Learning_Management_System/tree/6f63eb14662419384e18c48fdfd3b0e8d2327ebf
-
-#### Aim of The Project and Requirements 	
-![image](https://github.com/EmirhanSyl/Learning_Management_System/assets/61618968/e72cd8b0-f2a7-43b9-86de-d2134aae0736)
-![image](https://github.com/EmirhanSyl/Learning_Management_System/assets/61618968/cddfa69f-82e9-4ce5-ae93-1fe43822204b)
+>
 
 
 This project aims to develop a School Management System that can be used to automate the school's management.
@@ -95,8 +92,4 @@ The instructor cannot add more than a specified amount of hours of session
 Instructors and students can query the lesson topics by searching a string from the topic.
 And project includes more and more specific rules.
 
-  ### 4. UML DIAGRAM
-  ![image](https://github.com/EmirhanSyl/Learning_Management_System/assets/61618968/a894b9e8-ee88-4f26-baf5-171588fccada)
 
-  ### 5. DATABASE MODEL DIAGRAM
-  ![image](https://github.com/EmirhanSyl/Learning_Management_System/assets/61618968/59f3b78d-466e-4b30-9bab-3cde70066c92)
